@@ -1,0 +1,2 @@
+AdaBoostRegressor(base_estimator=DecisionTreeRegressor(max_depth=5),
+                  learning_rate=0.1, n_estimators=100, random_state=42)

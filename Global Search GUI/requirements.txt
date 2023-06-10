@@ -1,0 +1,10 @@
+#  -r requirements.txt
+
+# Base ----------------------------------------
+tkinter=8.6.12
+numpy>=1.18.5
+joblib=1.1.1
+pandas=1.5.3
+openai=0.27.6
+
+
